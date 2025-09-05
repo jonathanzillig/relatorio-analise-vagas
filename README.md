@@ -4,8 +4,8 @@
 O objetivo foi realizar uma **extração e análise de vagas de emprego na área de Análise de Dados**, identificando tendências, competências mais requisitadas e projeções para carreira.
 
 ## 📂 Conteúdo
-- `Relatorio_Analise_Vagas.docx`(https://github.com/jonathanzillig/relatorio-analise-vagas/blob/main/Relatorio_Analise_Vagas.docx) → versão editável do relatório.  
-- `Relatorio_Analise_Vagas.pdf` → versão final para consulta.  
+- [Relatorio_Analise_Vagas.docx](https://github.com/jonathanzillig/relatorio-analise-vagas/blob/main/Relatorio_Analise_Vagas.docx) → versão editável do relatório.  
+- [Relatorio_Analise_Vagas.pdf](https://github.com/jonathanzillig/relatorio-analise-vagas/blob/main/Relatorio_Analise_Vagas.pdf) → versão final para consulta.  
 
 ## 🔎 Principais descobertas
 - **Hard Skills mais requisitadas:** Python, SQL, Power BI.  
